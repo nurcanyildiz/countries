@@ -1,0 +1,48 @@
+
+body {
+    margin: 100px;
+    background-color: lightblue;
+    box-shadow: 5px 10px 8px 10px #888888;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 100px;
+
+}
+
+img {
+    width: 100px;
+}
+
+h2 {
+    margin: 5px;
+    font-size: 25px;
+}
+
+p {
+    margin: 5px;
+}
+
+hr {
+    max-width: 100%;
+}
+
+input {
+    width: 140px;
+    height: 25px;
+    margin: 10px;
+    border: 1px solid gray;
+}
+#input {
+    box-shadow: 5px 5px 5px 5px #8888;
+}
+
+button{
+    width: 100px;
+    height: 25px;
+    margin: 10px;
+    border: 1px solid gray;
+}
+
+#button {
+    box-shadow: 5px 5px 5px 4px #8888;
+}
