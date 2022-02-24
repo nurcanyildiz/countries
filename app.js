@@ -1,9 +1,3 @@
-//make sure if something goes wrong the app does not break;
-//loop trough  foreach of them make html
-//when we call the function it will return to the response
-//function inside another function is callback function.
-// if parameter is function it is callback function if it is not it is only parametir
-// continent should be parameter
 
 const BASE_URL = "https://restcountries.com/v2/all"
 
@@ -44,8 +38,6 @@ function renderCountry(country) {
   img.src = country.flag
   div.append(img)
   document.body.append(div)
-
-
 
 }
 
